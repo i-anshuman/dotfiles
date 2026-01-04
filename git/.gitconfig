@@ -1,0 +1,14 @@
+[user]
+	name = <username>
+	email = <email>
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
+[color]
+	diff = auto
+	interactive = auto
+	branch = auto
+	status = auto
+[pull]
+	rebase = false
